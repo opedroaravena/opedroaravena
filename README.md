@@ -5,15 +5,15 @@
 
 
 
-- 🔭 I’m currently working on [a forum website](https://github.com/opedroaravena/byu-on)
+- 🔭 I’m currently working on [SaaS Aplication](https://comingsoon.com)
 
-- 🌱 I’m currently learning **ReactJS, NodeJs and React Native.**
+- 🌱 I’m always learning, but now, more specifically, I am learning **ReactJS, NodeJs and React Native.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/opedroaravena](https://github.com/opedroaravena)
 
-- 📝 I regularly write articles on [https://hashnode.com/@opedroaravena](https://hashnode.com/@opedroaravena)
+- 📝 I regularly write articles on [https://opedroaravena.medium.com/](https://opedroaravena.medium.com/)
 
-- 💬 Ask me about **HTML/CSS/Javascript**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **pedroaravena.contato@gmail.com**
 
