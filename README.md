@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [SaaS Aplication](https://comingsoon.com)
+- 🔭 I’m currently working on a [SaaS Aplication](https://comingsoon.com)
 
 - 🌱 I’m always learning, but now, more specifically, I am learning **ReactJS, NodeJs and React Native.**
 
